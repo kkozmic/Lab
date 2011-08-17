@@ -5,7 +5,7 @@ namespace KkozmicDemos
 {
 	public static class MatchLifestyleExtensions
 	{
-		private const string key = "castle-match.lifestyle.inner.component.name";
+		private const string key = "castle.match-lifestyle-inner-component-name";
 
 		internal static string InnerComponentName(this IDictionary componentModelExtendedProperties)
 		{
